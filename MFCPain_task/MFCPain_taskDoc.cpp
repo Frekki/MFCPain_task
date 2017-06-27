@@ -146,9 +146,7 @@ void CMFCPain_taskDoc::Dump(CDumpContext& dc) const
 }
 #endif //_DEBUG
 
-
 // CMFCPain_taskDoc commands
-
 
 BOOL CMFCPain_taskDoc::OnOpenDocument(LPCTSTR lpszPathName)
 {
